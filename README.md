@@ -1,5 +1,5 @@
 # About Me:
-Hi 👋, I’m Mogankumar. Turning ideas into AI-powered products — one repo at a time.
+Hi 👋, I’m Mogankumar. Turning ideas into AI-powered solutions — one repo at a time.
 
 
 # 💻 Tech Stack:
